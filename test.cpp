@@ -24,4 +24,5 @@ main()
     printf("gia tri lon nhat la: %d",max);
     printf("tong 3 so la:%d",d);
     getch();
+    hi hi
 }
